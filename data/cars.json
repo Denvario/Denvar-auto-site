@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "slug": "hyundai-staria-2023",
+    "make": "Hyundai",
+    "model": "Staria 2.2D Executive 9-seater",
+    "year": 2023,
+    "mileage": "45,987 km",
+    "price": "R699,900",
+    "image": "/images/staria.jpg"
+  },
+  {
+    "id": "2",
+    "slug": "hyundai-i20-2024",
+    "make": "Hyundai",
+    "model": "i20 1.4 Premium",
+    "year": 2024,
+    "mileage": "19,661 km",
+    "price": "R299,900",
+    "image": "/images/i20.jpg"
+  }
+]
